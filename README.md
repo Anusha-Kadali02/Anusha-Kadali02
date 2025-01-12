@@ -15,7 +15,7 @@ I'm Anusha! I'm pursuing my Master's in Software Engineering Systems at Northeas
       <p>⚡ Fun fact: Code > Coffee. But both fuel my creativity ☕💡💻</p>
     </td>
     <td align="center">
-      <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width="400px"/>
+      <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" />
     </td>
   </tr>
 </table>
